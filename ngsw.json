@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1685954914379,
+  "index": "/todo-list-assignment-live/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/todo-list-assignment-live/favicon.ico",
+        "/todo-list-assignment-live/index.html",
+        "/todo-list-assignment-live/main.5f7d47f56e5729d7.js",
+        "/todo-list-assignment-live/manifest.webmanifest",
+        "/todo-list-assignment-live/polyfills.9b9acb108ee75841.js",
+        "/todo-list-assignment-live/runtime.d9817d11a0a5a45d.js",
+        "/todo-list-assignment-live/scripts.b73311b29b2da141.js",
+        "/todo-list-assignment-live/styles.afd1d735bc9a9b4d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/todo-list-assignment-live/assets/icons/icon-128x128.png",
+        "/todo-list-assignment-live/assets/icons/icon-144x144.png",
+        "/todo-list-assignment-live/assets/icons/icon-152x152.png",
+        "/todo-list-assignment-live/assets/icons/icon-192x192.png",
+        "/todo-list-assignment-live/assets/icons/icon-384x384.png",
+        "/todo-list-assignment-live/assets/icons/icon-512x512.png",
+        "/todo-list-assignment-live/assets/icons/icon-72x72.png",
+        "/todo-list-assignment-live/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/todo-list-assignment-live/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/todo-list-assignment-live/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/todo-list-assignment-live/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/todo-list-assignment-live/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/todo-list-assignment-live/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/todo-list-assignment-live/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/todo-list-assignment-live/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/todo-list-assignment-live/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/todo-list-assignment-live/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/todo-list-assignment-live/index.html": "05ff57c29c3530c0c8007c9fe818c82aadcab4a4",
+    "/todo-list-assignment-live/main.5f7d47f56e5729d7.js": "75cac8fe87893783b625d44f46585ec526c23067",
+    "/todo-list-assignment-live/manifest.webmanifest": "0cc4ff0032d118127dafdb446ebf34b6a6929454",
+    "/todo-list-assignment-live/polyfills.9b9acb108ee75841.js": "445412d387d1cbdec93308f7451511f9b41586f8",
+    "/todo-list-assignment-live/runtime.d9817d11a0a5a45d.js": "ef6c0b965d6c3eac8d4635a56f912936d8f870d3",
+    "/todo-list-assignment-live/scripts.b73311b29b2da141.js": "47110f74e517612b846b5de9b47e450c10759d0a",
+    "/todo-list-assignment-live/styles.afd1d735bc9a9b4d.css": "75b643cafc723a8edaedf6dfb411c57eb48e180a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
